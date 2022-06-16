@@ -4,7 +4,7 @@
 data_t data = DATA_INIT;
 
 /**
- * monty - helper function for main function
+ * monty - Helper function for main function
  * @args: pointer to struct of arguments from main
  *
  * Description: opens and reads from the file
